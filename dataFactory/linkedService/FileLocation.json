@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "C:\\Users\\PROBOOK 650G3\\OneDrive - University of KwaZulu-Natal\\Desktop\\Azure Project",
-			"userId": "223147104@stu.ukzn.ac.za",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiOWQ3YWZjYS1kMzA0LTQxYzktOGIwOS04YTAwNjczODdiYTYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "Ntsepeng Tamako (223147104)",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzYWZjYWI0OS01ZWYzLTQxMzMtYjEwMy00MzJjOTcxZTVlYjgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "onPremtoAzureIntergrationRuntime",
