@@ -1,0 +1,9 @@
+{
+	"name": "azuresanorthfactory",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c1d30b0-d486-43c6-bb4a-a75ee4aec684",
+		"tenantId": "226827d6-a9d0-470d-8c15-b146b0192d51"
+	}
+}
